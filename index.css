@@ -32,6 +32,11 @@ input {
     margin: 10px 0;
 }
 
+
+input:hover {
+    border: 1px solid grey;
+}
+
 button {
     color: #FDFDFD;
     background-color: #325099;
